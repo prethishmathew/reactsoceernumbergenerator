@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import CreateRandom from './component/randomgenerator'
 function App() {
