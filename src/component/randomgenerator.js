@@ -15,7 +15,7 @@ const  CreateRandom = () => {
       }, []);
     
       
-    return <h1>{randonNumber} </h1>;
+    return <h1 data-testid='randonNumber'>{randonNumber} </h1>;
     
 }
 
